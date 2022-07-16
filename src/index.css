@@ -91,6 +91,11 @@ ul {
   opacity: 1;
 }
 
+.pigTile img {
+  max-width: auto;
+  min-width: auto;
+}
+
 .minBackgroundSneak {
   position: absolute;
   width: inherit;
